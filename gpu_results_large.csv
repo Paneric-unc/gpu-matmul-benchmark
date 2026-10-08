@@ -1,0 +1,4 @@
+n,version,ms,gflops,speedup_vs_cpu,max_rel_err
+4096,gpu_naive,316.624,434.08,-1.00,-1.00e+00
+4096,gpu_tiled,204.295,672.75,-1.00,-1.00e+00
+4096,cublas,33.624,4087.57,-1.00,-1.00e+00
